@@ -1,0 +1,13 @@
+#wrapper {
+	background:black;
+	width:960px;
+	height:auto;
+	color:white;
+	padding:10px;
+}
+
+img{
+	width:400px;
+	display:inline-block;
+	border: 2px solid white;
+}
